@@ -38,10 +38,10 @@ Bagaimana cara untuk menambahkan Komponen di halaman Ionic? Jelaskan secara deta
    ```
 
 Screenshoot
-![image](https://github.com/user-attachments/assets/f55c96da-cce1-42de-b194-979170e5d0d3)
-![image](https://github.com/user-attachments/assets/56a55121-4fc8-440f-a080-3d0fea2d1b66)
-![image](https://github.com/user-attachments/assets/55b95de5-bb16-4f2f-87d5-3f7c5f6c252e)
-![image](https://github.com/user-attachments/assets/f7ff6a69-275d-48db-b0e8-5c853949645a)
+![image](https://github.com/dhawiwiyiyaz/Tugas6/blob/main/Screenshot%202024-12-05%20020644.png)
+![image](https://github.com/dhawiwiyiyaz/Tugas6/blob/main/Screenshot%202024-12-05%20020825.png)
+![image](https://github.com/dhawiwiyiyaz/Tugas6/blob/main/Screenshot%202024-12-05%20020911.png)
+![image](https://github.com/dhawiwiyiyaz/Tugas6/blob/main/Screenshot%202024-12-05%20020931.png)
 
 
 
